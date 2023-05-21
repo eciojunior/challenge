@@ -32,3 +32,5 @@ Para facilitar a utilização da mesma, foi utlizado documentação de api (Swag
 
 http://localhost:8080/swagger-ui.html
 
+Foi criado um DER que mostra as entitades base que foram criadas, o mesmo está no arquivo drawio na base do projeto.
+
