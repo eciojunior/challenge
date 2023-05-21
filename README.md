@@ -17,7 +17,8 @@ Os testes unitários foram desenvolvidos utilizando:
 
 A aplicação foi construída para ser executada de forma simples, basta seguir as etapas abaixo:
 
-1 - Build -> Para executar o build, basta ter o maven instalado e executar o comando 'mvn install'
+1 - Build -> Para executar o build, basta ter o maven instalado e executar o comando 'mvn install'.
+
 2 - Execução -> Após executado o build, a pasta 'target' será criada e o JAR da aplicação aparecerá na mesma. Para executá-lo basta executar 'java -jar .\challenge-0.0.1-SNAPSHOT.jar'.
 
 # Imagem docker para executar a aplicação
