@@ -1,17 +1,28 @@
 # Especificações
 
 A aplicação em questão, foi desenvolvida e utiliza as seguintes tecnologias:
+
 1 - Java 17
+
 2 - Spring boot 3
+
 3 - Flyway
+
 4 - Mapper
+
 5 - Banco de dados in memory H2
+
 6 - Swagger
+
 7 - Lombok
 
+
 Os testes unitários foram desenvolvidos utilizando:
+
 1 - Junit 5
+
 2 - Mockito
+
 
 # Rodando a aplicação
 
